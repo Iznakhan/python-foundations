@@ -1,2 +1,2 @@
-# python-practice
-My Python learning and practice journey.
+# python-foundations
+Hands-on Python fundamentals, problem-solving, and practical exercises.
